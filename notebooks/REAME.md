@@ -1,7 +1,6 @@
 # Pyomo Problems!
 
 
-Things to do
 
 ### Section 1 - done!
 
@@ -18,3 +17,6 @@ Things to do
 * 1 "Milk pooling and blending
 * 4 "Support Vector Machines"
 * 6 "Cutting Stock"
+
+### Section 6 - in progress
+### Section 7 - in progress
