@@ -14,4 +14,4 @@ lagrangian Relaxation
 * https://www.youtube.com/playlist?list=PLq6RpCDkJMyqeA5zIrSCy8tqWrJsWSZEf
 
 Linear Programming
-* [Linear Programming](https://www.youtube.com/playlist?list=PLq6RpCDkJMyoSSeucDx7FyUpMDjhc-Kyf)https://www.youtube.com/playlist?list=PLq6RpCDkJMyoSSeucDx7FyUpMDjhc-Kyf
+* [Linear Programming](https://www.youtube.com/playlist?list=PLq6RpCDkJMyoSSeucDx7FyUpMDjhc-Kyf)
