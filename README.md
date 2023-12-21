@@ -2,6 +2,11 @@
 Optimization Models created with Pyomo, AMPL and more...
 
 
+* [Google Optimization Tools (a.k.a., OR-Tools)](https://github.com/google/or-tools)
+
+
+
+
 
 Pierre Schaus Lectures:
 * [Constraint Programming](https://www.youtube.com/playlist?list=PLq6RpCDkJMyoH9ujmz6TBoAwT5Ax8RwqE)
